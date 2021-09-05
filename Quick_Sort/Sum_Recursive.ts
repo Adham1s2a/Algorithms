@@ -7,9 +7,7 @@
         let sum: number;
         //base case
         if(arr.length === 0)
-        return 0
-        else if (arr.length ===1)
-        return arr[0];
+        return 0;
         else 
         sum = arr[0] + SumD_C(arr.slice(1));
         return sum;
