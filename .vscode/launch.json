@@ -1,12 +1,11 @@
 {
-    "version": "0.2.0",
-    "configurations": [
-      {
-        "type": "pwa-chrome",
-        "request": "launch",
-        "name": "Launch Edge against localhost",
-        "url": "file:///C:/Users/u7832/Desktop/Algorithms/Recursion/recindex.html",
-        "webRoot": "${workspaceFolder}"
-      }
-    ]
+  "configurations": [
+  {
+    "name": "Launch Edge",
+    "request": "launch",
+    "type": "pwa-msedge",
+    "url": "file:///C:/Users/Adham%20Moamer/Desktop/Algorithms/MergeSort/index.html",
+    "webRoot": "${workspaceFolder}"
   }
+  ]
+}

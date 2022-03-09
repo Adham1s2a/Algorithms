@@ -1,0 +1,25 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "writing all the famous algorithms using typescript and javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adham1s2a/Algorithms.git"
+  },
+  "keywords": [
+    "Algorithms"
+  ],
+  "author": "Adham Moamer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adham1s2a/Algorithms/issues"
+  },
+  "homepage": "https://github.com/Adham1s2a/Algorithms#readme",
+  "devDependencies": {
+    "@types/node": "^16.9.6"
+  }
+}
